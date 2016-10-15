@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+<remote name="SonyAosp" fetch="https://github.com/SonyAosp/" />
+<project path="vendor/qcom/firmware" name="vendor_qcom_firmware" remote="SonyAosp" revision="n" />
+</manifest>
+
